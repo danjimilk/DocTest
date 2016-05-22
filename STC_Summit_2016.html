@@ -17,29 +17,20 @@
     </style>
   </head>
   <body>
-    <textarea id="source">
-
-class: center, middle
-
-# Title
-
----
-
-# Agenda
-
-1. Introduction
-2. Deep-dive
-3. ...
-
----
-
-# Introduction
-
-    </textarea>
-    <script src="https://gnab.github.io/remark/downloads/remark-latest.min.js">
-    </script>
+    <textarea id="source"></textarea>
+    <script src="https://gnab.github.io/remark/downloads/remark-latest.min.js"></script>
     <script>
-      var slideshow = remark.create();
+      xhr = new XMLHttpRequest();
+      
+      xhr.onreadystatechange = function () {
+        if(xhr.readyState == 4 && xhr.status = 200) {
+          document.getElementById('source').innerHTML = xhr.responseText;
+          var slideshow = remark.create();
+        }
+      }
+      
+      xhr.open("GET", "STC_Summit_2016.md", true);
+      xhr.send();
     </script>
   </body>
 </html>
