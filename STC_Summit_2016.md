@@ -37,17 +37,17 @@ class: center, middle
 * Industry 4.0의 시작, IoT 기기의 홍수
 * 원격 감시, 자산/자원 추적, 실시간 적응형 인공 지능, 생상성의 효율화
 * 사용자의 욕구
-..* Omni Science: The desire to know all.
-..* Telepathy: The desire for human connection.
-..* Safe Keeping: To protect and to be protected.
-..* Immortrality: To be healthy and vital.
-..* Teleportation: To move effortlessly
+  * Omni Science: The desire to know all.
+  * Telepathy: The desire for human connection.
+  * Safe Keeping: To protect and to be protected.
+  * Immortrality: To be healthy and vital.
+  * Teleportation: To move effortlessly
 * Enhanced Object의 등장 (ex. Ambient Umbrella)
 * Ehanced Object의 요소
-..* glanceability
-..* gestureability
-..* affordability
-..* wearability
-..* indestructibility
-..* usability
-..* loveability
+  * glanceability
+  * gestureability
+  * affordability
+  * wearability
+  * indestructibility
+  * usability
+  * loveability
