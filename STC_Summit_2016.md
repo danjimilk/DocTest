@@ -1,5 +1,9 @@
 class: center, middle
 
+# STC Summit 2016 참관 후기
+
+---
+
 # 참관 후기 요약
 
 ---
@@ -10,6 +14,8 @@ class: center, middle
 * 이어지는 주제, 가늠할 수 있는 Content
 * 추후 Video Content 제공
 
+---
+
 ## 아쉬운 점
 * 낚시성 제목, 알맹이 없는 내용
 * 스포서쉽에 의거한 광고성 세션 (Web Works, Adobe 등)
@@ -19,25 +25,29 @@ class: center, middle
 
 # Openning Keynote
 
+---
+
 ## 세션 정보
 * 발표자: David Rose, CEO at Ditto Labs and Vitality
 * 일정: 5/15(일) 오후 6시
+ 
+---
 
 ## 내용
 * Industry 4.0의 시작, IoT 기기의 홍수
 * 원격 감시, 자산/자원 추적, 실시간 적응형 인공 지능, 생상성의 효율화
 * 사용자의 욕구
-** Omni Science: The desire to know all.
-** Telepathy: The desire for human connection.
-** Safe Keeping: To protect and to be protected.
-** Immortrality: To be healthy and vital.
-** Teleportation: To move effortlessly
+..* Omni Science: The desire to know all.
+..* Telepathy: The desire for human connection.
+..* Safe Keeping: To protect and to be protected.
+..* Immortrality: To be healthy and vital.
+..* Teleportation: To move effortlessly
 * Enhanced Object의 등장 (ex. Ambient Umbrella)
 * Ehanced Object의 요소
-** glanceability
-** gestureability
-** affordability
-** wearability
-** indestructibility
-** usability
-** loveability
+..* glanceability
+..* gestureability
+..* affordability
+..* wearability
+..* indestructibility
+..* usability
+..* loveability
