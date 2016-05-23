@@ -37,7 +37,7 @@ class: center, middle
 
 ---
 * Enhanced Object의 등장 (ex. Ambient Umbrella)
-  [![Image of Ambient Umbrella](http://d3uifzcxlzuvqz.cloudfront.net/images/stories/jreviews/174_ambientdevicesdigitalumbrella1_1271038794.jpg)](https://www.youtube.com/watch?v=teEZMLUXnSk){:target="_blank"}
+ <a target="_blank" href="https://www.youtube.com/watch?v=teEZMLUXnSk"><img alt="Image of Ambient Umbrella" src="http://d3uifzcxlzuvqz.cloudfront.net/images/stories/jreviews/174_ambientdevicesdigitalumbrella1_1271038794.jpg" /></a>
 
 * Ehanced Object의 요소
   * glanceability
