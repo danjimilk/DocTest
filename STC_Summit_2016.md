@@ -3,8 +3,6 @@ class: center, middle
 # STC Summit 2016 참관 후기
 
 ---
-
-layout:true
 # 참관 후기 요약
 
 ## 좋았던 점
@@ -19,8 +17,6 @@ layout:true
 * 중요/인기 세션에 대한 스케쥴 분산 미흡
 
 ---
-
-layout:true
 # Openning Keynote
 
 ## 세션 정보
