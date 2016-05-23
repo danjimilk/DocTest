@@ -34,7 +34,10 @@ class: center, middle
   * Safe Keeping: To protect and to be protected.
   * Immortrality: To be healthy and vital.
   * Teleportation: To move effortlessly
+
+---
 * Enhanced Object의 등장 (ex. Ambient Umbrella)
+  ![Image of Ambient Umbrella](http://d3uifzcxlzuvqz.cloudfront.net/images/stories/jreviews/174_ambientdevicesdigitalumbrella1_1271038794.jpg)
 * Ehanced Object의 요소
   * glanceability
   * gestureability
