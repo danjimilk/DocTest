@@ -127,3 +127,27 @@ class: center, middle
 * Tech Comm이 만든 문서의 문제점을 Tech Support가 잘 수집한다.
 * 이런 상황에서 Tech Comm이 Tech Support에게 문서 리뷰를 부탁하는 방식 등으로 협업할 수 있음.
 * 우리 조직의 입장에서 ID개발지원실이 Tech Support라고 할 수 있음.
+
+---
+## REST API Documentation Best Practice
+### 세션정보
+* 발표자: Marta Rauch, Sr. Principal Information Developer, Oracle
+* 일정: 5/16(월) 오후 1시
+
+### 내용
+* 다룬 주제
+  * Intro and importance of REST APIs
+  * Best practices for REST API content
+  * How one company does this
+  * Useful tools
+  * Wrap-up, where to go from here
+
+---
+* Intro and importance of REST APIs
+  * REST API: ROA (Resource Oreinted Architecture)구조로 웹의 콘텐츠를 하나의 자원으로 보고 URI를 통해 CRUD의 작업을 HTTP의 GET, POST, PUT, DELETE를 사용하여 처리한다.
+  * 빠르게 성장하고 있고 산업 표준으로 자리 잡음.
+  * 소셜 네트워크, IoT, Cloud, 모바일, 웨어러블에 사용됨.
+  * 정확함, 내용의 신뢰성이 API 문서에 가장 크게 요구되는 요소임.
+
+* Best Practice for REST API Document
+  * 
