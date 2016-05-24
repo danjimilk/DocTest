@@ -59,7 +59,7 @@ class: center, middle
 
 ### 세션 정보
 * 발표자: Kate Schneider, Senior Technical Writer, Madcap Software
-* 일정: 5/1(일) 오전 8시 30분
+* 일정: 5/16(월) 오전 8시 30분
 
 ### 내용
 * 직면한 문제
@@ -97,6 +97,33 @@ class: center, middle
 * 우리의 핸드북(스타일 가이드)은 접근이 쉬운가?
 * 우리의 핸드북은 계속 업데이트되고 업무 시 참조할 수 있는 것인가?
 * 우리의 핸드북으로 멤버의 변화에 대응할 수 있는가?
-* Collab 등에 우리의 핸드북을 구성해보는 것도 나쁘지 않아 보임.
-* 
+* 우리의 핸드북이 위와 같은 특징을 가질 수 있도록 업데이트 및 재작성할 가치가 있음.
+
 ---
+## Generating API Doc automatically
+
+### 세션정보
+* 발표자: Ed Marshall, Marshall Documentation Consulting
+* 일정: 5/16(월) 오전 9시 45분
+* 비고: 청강 중 다른 세션으로 이동
+
+### 내용 및 소감
+* TC에서 API/SDK 라이터의 비중이 커짐, 하지만 툴은? Robo Help를 많이 씀
+* API 문서의 자동화를 위해 Doxygen, JavaDoc, Swagger 등을 소개함.
+* API/SDK 라이터의 덕목으로 Code Reading 스킬을 강조함.
+* API 사용 목적, API를 쓰게되는 맥락이나 사용 로직을 문서에서 제공하는 것도 중요
+* 소스 코드에 문서화를 해야 하기 때문에 개발자와 협업할 때 협업 규칙을 잘 세우고 지키는 것이 중요.
+* JavaDoc 위주의 코드 Notation 사용되기 시작될 때 쯤 다른 세션으로 이동
+
+---
+## Tech Comm and Tech Support Working Together
+### 세션정보
+* 발표자: Rick Lippincott, Senior Technical Writer, Blacktree Technology/Analogic
+* 일정: 5/16(월) 오전 9시 45분
+
+### 내용 및 소감
+* Tech Comm은 내부 개발자와 커뮤니케이션 하며 이를 토대로 문서를 만든다.
+* Tech Comm이 만든 문서로 유저 또는 외부 개발자와 커뮤니케이션한다.
+* Tech Comm이 만든 문서의 문제점을 Tech Support가 잘 수집한다.
+* 이런 상황에서 Tech Comm이 Tech Support에게 문서 리뷰를 부탁하는 방식 등으로 협업할 수 있음.
+* 우리 조직의 입장에서 ID개발지원실이 Tech Support라고 할 수 있음.
