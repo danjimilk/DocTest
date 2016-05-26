@@ -4,18 +4,18 @@ class: center, middle
 
 ---
 ## 참관 후기 요약
-###좋았던 점
-* 다양한 주제, 다양한 직무 (라이터, 기술 지원, 마케터 등), 많은 참여
-* 이어지는 주제, 가늠할 수 있는 Content
-* 추후 Video Content 제공
-### 아쉬운 점
-* 낚시성 제목, 알맹이 없는 세션들이 존재
-* 스포서쉽에 의거한 광고성 세션 (Web Works, Adobe 등)
-* 중요/인기 세션에 대한 스케쥴 분산 미흡
+* 좋았던 점
+  * 다양한 주제, 다양한 직무 (라이터, 기술 지원, 마케터 등), 많은 참여
+  * 이어지는 주제, 가늠할 수 있는 Content
+  * 추후 Video Content 제공
+* 아쉬운 점
+  * 낚시성 제목, 알맹이 없는 세션들이 존재
+  * 스포서쉽에 의거한 광고성 세션 (Web Works, Adobe 등)
+  * 중요/인기 세션에 대한 스케쥴 분산 미흡
 ### 결론
 * Rest API는 대세임
 * 저비용 고효율에 기민한 대응이 가능한 Documentation
-* 오픈 소스, 진입 장벽이 낮은 툴의 사용 확대: GitHub, Jekyll, Swagger, Markdown, Wiki
+* 오픈 소스, 진입이 쉬운 툴의 사용 확대: GitHub, Jekyll, Swagger, Markdown, Wiki
 
 ---
 
