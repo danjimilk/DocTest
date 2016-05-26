@@ -56,8 +56,10 @@ class: center, middle
 ---
 
 class: center, middle
+layout: true
 
 # So What?
+## BlahBLah
 
 ---
 
