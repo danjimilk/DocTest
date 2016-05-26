@@ -50,13 +50,10 @@ class: center, middle
   * loveability
 
 ---
-layout: true
+## So What?
 
-# So What?
-## BlahBLah
 
 ---
-
 ## Your Secret Weapon: The Documentation Handbook
 
 ### 세션 정보
