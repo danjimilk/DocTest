@@ -82,7 +82,7 @@ class: center, middle
   * 레퍼런스 도구: 스타일 가이드, How to 가이드
   * Sandbox 도구: 새로운 도구, 스타일 등을 시험해볼 수 있는 테스트 자료
   
-<img src="http://danjimilk.github.io/DocTest/Handbook.png" />
+<img style="float: center" src="http://danjimilk.github.io/DocTest/Handbook.png" />
 
 ---
 * Doc Handbook Best Practice - Do
