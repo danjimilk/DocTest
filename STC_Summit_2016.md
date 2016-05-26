@@ -98,7 +98,7 @@ class: center, middle
 * 레퍼런스 도구: 스타일 가이드, How to 가이드
 * Sandbox 도구: 새로운 도구, 스타일 등을 시험해볼 수 있는 테스트 자료
   
-<img style="margin:0px auto;display:block"  src="http://danjimilk.github.io/DocTest/Handbook.png" />
+<img style="margin:0px auto;display:block" width="60%" height="60%" src="http://danjimilk.github.io/DocTest/Handbook.png" />
 
 #### Doc Handbook Best Practice - Do
 * 신입 라이터는 익숙해질 때까지 핸드북을 사용한다.
