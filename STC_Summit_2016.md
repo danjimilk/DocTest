@@ -226,3 +226,23 @@ class: center, middle
 * GitHub에서 문서화를 위해 Markdown을 사용
 * Syntax Highlighting, Task List, Tables를 추가로 지원
 * [Markdown Cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+
+---
+## Interactive Document and the IoT
+### 세션정보
+* 발표자: Vi Kellersohn
+* 일정: 5/17(ghk) 오전 8시 30분
+
+### 내용
+* IoT 기기들은 필요한 정보를 인터넷을 통해 수집하여 기기 스스로를 제어하거나 정보를 디스플레이할 수 있다.
+* 또는 반대로 IoT 기기의 상태 정보나 센서 정보를 인터넷을 통해 내보낼 수 있다.
+* Interactive Content는 제품 상태 정보나 사용자의 진행 상태를 이용해 반응형 방식으로 정보를 전달하는 것
+* 실제로 세션에서는 커피 머신 + 라즈베리 파이 + 센서 + Wireless Network를 조함하여 반응형 콘텐트 시연
+
+---
+<img src="http://danjimilk.github.io/DocTest/Interactive_Content.jpg">
+
+### 소감
+* Interactive Content가 무엇인지 가작 구체적으로 보여준 세션이었음. 
+* 독자 분석에 따라 Content를 작성했지만 이는 특정 독자 층의 예상이거나 표본임.
+* 실제 Personalized Content를 지향하려면 Connectivity를 통한 정보 수집과 이에 따른 Conditional Content는 필수임.
