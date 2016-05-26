@@ -191,3 +191,39 @@ class: center, middle
 * [Tom Johnson's API Doc posts](http://idratherbewriting.com/category/api-documentation/)
 * [Tom Johnson podcast with Peter Gruenbaum on automating REST API Doc](http://idratherbewriting.com/2015/01/05/podcast-automating-rest-api-documentation-with-peter-gruenbaum/)
 * [Sarah Maddox, API Technical writing](http://www.slideshare.net/sarahmaddox/api-technical-writing)
+
+---
+## Collaborating and Contributing in GitHub
+### 세션정보
+* 발표자: Nicky Bleiel, Watson Information Developer, IBM Watson
+* 일정: 5/16(월) 오후 2시 15분
+
+### 내용
+#### GitHub란?
+* Web-based respository for Software projects (31 million repositories)
+* GitHub uses Git.
+* Git: Distributed version control system for software development
+
+---
+#### 특징
+* SNS 특징이 있음, 유명 프로젝트, 유명 개발자를 Follow할 수 있음.
+* 문서 저작을 함께 할 수 있음
+* 문서 또한 코드와 같은 파일로 취급
+* 계정 생성은 무료, 단 Private Repository를 만들어야 할 경우 유료
+
+#### GitHub 이해를 돕기 위한 레퍼런스
+* [Guruble Blog](http://guruble.com/?p=116)
+* [딤딤이 Blog](http://dimdim.tistory.com/entry/GIT%EC%97%90-%EB%8C%80%ED%95%9C-%EB%82%B4%EC%9A%A9%EC%A0%95%EB%A6%AC-%EC%A0%95%EB%A6%AC%EC%A4%91)
+
+---
+#### GitHub에서 문서화하는 방법
+* Readmes 생성 (Markdown)
+* GitHub Pages (gh-pages 브랜치 사용)
+* Wikis (Markdown)
+
+#### Markdown
+* 가벼운 규칙으로 HTML 변환이 쉬운 문법 (Wiki Markup와 비슷)
+* John Gruber에 의해 만들어짐.
+* GitHub에서 문서화를 위해 Markdown을 사용
+* Syntax Highlighting, Task List, Tables를 추가로 지원
+* [Markdown Cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
