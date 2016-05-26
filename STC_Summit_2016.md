@@ -245,7 +245,7 @@ class: center, middle
 * 실제로 세션에서는 커피 머신 + 라즈베리 파이 + 센서 + Wireless Network를 조함하여 반응형 콘텐트 시연
 
 ---
-<img width="40%" height="40%" src="http://danjimilk.github.io/DocTest/Interactive_Content.jpg">
+<img width="70%" height="70%" src="http://danjimilk.github.io/DocTest/Interactive_Content.jpg">
 
 ### 소감
 * Interactive Content가 무엇인지 가작 구체적으로 보여준 세션이었음. 
