@@ -16,7 +16,7 @@ class: center, middle
 ### 결론
 * Rest API는 대세임
 * 저비용 고효율에 기민한 대응이 가능한 Documentation
-* 오픈 소스, 진입이 쉬운 툴의 사용 확대: GitHub, Jekyll, Swagger, Markdown, Wiki
+* 오픈 소스, 진입이 쉬운 툴의 사용 확대: GitHub, Jekyll, Swagger, Markdown
 
 ---
 
