@@ -54,20 +54,19 @@ class: center, middle
 * usability
 * loveability
 
----
 #### Ladder of Enchantment
 * Augmentation: 무게를 저장하는 체중계 - Product Level
 * Personalization: 누가 사용하고 있는지 파악하는 체중계
 * Socialization: 사용자의 체중을 소셜 네트워크에 공유하는 체중계 - Service Level
 * Gamification: 건강한 습관 또는 목표 체중을 위해 점수나 레벨을 주어 사용자를 독려하는 체중계
 * Story-fication: 건강 및 피트니스와 같은 요소나 이야기의 일부가 되는 체중계 - Experience Level
- 
+
+--- 
 #### 결론
 * 항상 켜져 있지 않고 필요할 때만 사용할 수 있을 것이고, 생활을 방해하지 않고 필요할 때만 인지될 것이다.
 * 인터페이스가 제공되기 때문에 변형되거나 예측못한 형태로 사용되어질 수 있을 것이며, 스스로 패턴을 인식하거나 학습하여 요구 사항을 미리 예측하여 동작할 것이다.
 * 이 모든 것들이 클라우드 베이스의 서비스로 구현되고 IoT 기기들이 인터페이스를 열고 있고 정보를 서로 주고 받을 수 있기 때문에 가능할 것이다.
 
----
 ## So What?
 
 
