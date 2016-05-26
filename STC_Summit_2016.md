@@ -3,12 +3,10 @@ class: center, middle
 # STC Summit 2016 참관 후기
 
 ---
-
 ## 참관 후기 요약
 
 ### 좋았던 점
-* 다양한 주제, 다양한 직무 (라이터, 기술 지원, 마케터 등)
-* 많은 참여, 활발한 커뮤니케이션
+* 다양한 주제, 다양한 직무 (라이터, 기술 지원, 마케터 등), 많은 참여, 활발한 커뮤니케이션
 * 이어지는 주제, 가늠할 수 있는 Content
 * 추후 Video Content 제공
 
@@ -54,8 +52,6 @@ class: center, middle
   * loveability
 
 ---
-
-class: center, middle
 layout: true
 
 # So What?
