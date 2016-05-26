@@ -81,13 +81,15 @@ class: center, middle
   * 트레이닝 도구: 업무 워크플로, 저작 도구
   * 레퍼런스 도구: 스타일 가이드, How to 가이드
   * Sandbox 도구: 새로운 도구, 스타일 등을 시험해볼 수 있는 테스트 자료
+  
+<img src="http://danjimilk.github.io/DocTest/Handbook.png" />
 
+---
 * Doc Handbook Best Practice - Do
   * 신입 라이터는 익숙해질 때까지 핸드북을 사용한다.
   * 팀 멤버와 협업하여 핸드북을 저작/리뷰한다.
   * 신입 라이터의 제안이나 리뷰를 반영한다.
 
----
 * Doc Handbook Best Practice - Do Not
   * 핸드북을 방치하지 마라
   * 하루 아침에 핸드북을 완성하려고 하지마라 (계속 추가하는 방식 사용)
