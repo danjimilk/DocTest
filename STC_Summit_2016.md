@@ -219,12 +219,18 @@ class: center, middle
 * GitHub Pages (gh-pages 브랜치 사용)
 * Wikis (Markdown)
 
+---
 #### Markdown
 * 가벼운 규칙으로 HTML 변환이 쉬운 문법 (Wiki Markup와 비슷)
 * John Gruber에 의해 만들어짐.
 * GitHub에서 문서화를 위해 Markdown을 사용
 * Syntax Highlighting, Task List, Tables를 추가로 지원
 * [Markdown Cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+
+### 소감
+* GitHub의 특징을 활용하면서 문서화하는 스킬은 대부분 최근 TW에게 요구되는 Trendy한 스킬이라고 느낌
+* Markdown이 문서에 요구되어지는 많은 사항들을 만족시키지 못하지만 빠른 대응이 필요할 때 적합
+* Code와 문서의 경계를 크게 두지 않는 사고 방식을 확인함.
 
 ---
 ## Interactive Document and the IoT
@@ -239,7 +245,7 @@ class: center, middle
 * 실제로 세션에서는 커피 머신 + 라즈베리 파이 + 센서 + Wireless Network를 조함하여 반응형 콘텐트 시연
 
 ---
-<img width="20%" height="20%" src="http://danjimilk.github.io/DocTest/Interactive_Content.jpg">
+<img width="40%" height="40%" src="http://danjimilk.github.io/DocTest/Interactive_Content.jpg">
 
 ### 소감
 * Interactive Content가 무엇인지 가작 구체적으로 보여준 세션이었음. 
