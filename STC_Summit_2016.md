@@ -152,4 +152,27 @@ class: center, middle
   * 정확함, 내용의 신뢰성이 API 문서에 가장 크게 요구되는 요소임.
 
 * Best Practice for REST API Document
-  * 
+  * 레퍼런스 성격의 내용 뿐만 아니라 Get Started, Task Oriented 설명을 함께 제공하라.
+  * Use Cases별 API 사용 가이드 제공 (레퍼런스보다 가이드 성격)
+  * Task Based Category로 API 레퍼런스를 필터링해서 접근할 수 있어야 함.
+  * API 이름(자워 URI, URL 구조), 지원 Methods, Overview, Method별 설명, 파라미터, Notes
+  * Response (Status Code)에 대한 설명 필요
+  * 다양항 방법으로 정보에 접근하도록 해야 함 (필터 기준: Task, Path, Method)
+  * 문서 콘텐트 자체도 자동화되어 산출될 수 있게 해당 언어 또는 언어가 지원하는 포맷으로 작성함.
+
+---
+* API Documentation Generation
+  * Oracle 제품에 대한 REST API 문서 작성
+  * Swagger을 사용하여 문서화를 자동화 했지만 표시하는 템플릿(Swagger UI)를 커스터마이징함.
+  * 심지어 문서를 배포하는 앱을 만들고 해당 앱에 문서를 배포할 수 있도록 REST API를 만듬.
+  * 문서 배포 앱이 Oracle 내부의 CMS에서 Content를 추출하여 REST API 문서를 배포함.
+
+* REST API 문서화를 위해 사용한 도구
+  * GitHub: Repository로 사용
+  * Postman (Chrome Extension): REST API를 테스트하기 위한 도구
+  * 브라우저 뿐만 아니라 Desk Top용 REST Client나 cURL 오픈 소스를 사용하기도 함.
+
+* References
+  * [Tom Johnson's API Doc posts](http://idratherbewriting.com/category/api-documentation/)
+  * [Tom Johnson podcast with Peter Gruenbaum on automating REST API Doc](http://idratherbewriting.com/2015/01/05/podcast-automating-rest-api-documentation-with-peter-gruenbaum/)
+  * [Sarah Maddox, API Technical writing](http://www.slideshare.net/sarahmaddox/api-technical-writing)
