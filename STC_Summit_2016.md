@@ -214,7 +214,6 @@ class: center, middle
 * [Guruble Blog](http://guruble.com/?p=116)
 * [딤딤이 Blog](http://dimdim.tistory.com/entry/GIT%EC%97%90-%EB%8C%80%ED%95%9C-%EB%82%B4%EC%9A%A9%EC%A0%95%EB%A6%AC-%EC%A0%95%EB%A6%AC%EC%A4%91)
 
----
 #### GitHub에서 문서화하는 방법
 * Readmes 생성 (Markdown)
 * GitHub Pages (gh-pages 브랜치 사용)
@@ -240,7 +239,7 @@ class: center, middle
 * 실제로 세션에서는 커피 머신 + 라즈베리 파이 + 센서 + Wireless Network를 조함하여 반응형 콘텐트 시연
 
 ---
-<img src="http://danjimilk.github.io/DocTest/Interactive_Content.jpg">
+<img width="20%" height="20%" src="http://danjimilk.github.io/DocTest/Interactive_Content.jpg">
 
 ### 소감
 * Interactive Content가 무엇인지 가작 구체적으로 보여준 세션이었음. 
