@@ -43,6 +43,7 @@ class: center, middle
 
 #### Enchanted Object의 등장 (ex. Ambient Umbrella)
  <a target="_blank" href="https://www.youtube.com/watch?v=teEZMLUXnSk"><img alt="Image of Ambient Umbrella" src="http://d3uifzcxlzuvqz.cloudfront.net/images/stories/jreviews/174_ambientdevicesdigitalumbrella1_1271038794.jpg" /></a>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/teEZMLUXnSk" frameborder="0" allowfullscreen></iframe>
 
 ---
 #### Ehchanted Objects의 요소
@@ -263,7 +264,6 @@ class: center, middle
 * 회사는 Content 생산을 위해 많은 예산을 편성하지 않거나 예산을 깎고 있음.
 * 예산은 줄었지만 요구하는 것들은 많아짐.
 * 이 상황에서 집중해야 할 것, 줄여야 할 것이 무엇인지 고민해야 한다.
-* 
 
 ---
 #### 필수적인 Content를 생산하고 프로세스를 효율화하라
@@ -306,6 +306,7 @@ class: center, middle
 * 포럼 등을 통해 사용자에게 응대한 Content(Feedback)을 재사용 할 것
 * 때로는 사용자에게 Content 저작 및 편집까지 맡기는 것도 좋은 방법 (Wiki 스타일)
 
+---
 ### 소감
 * 팀의 사이트 통계와 같은 것들이 왜 필요한지? 통계를 통해 우리는 어떤 결정을 해야 할 것인지 더 깊이 고민'만'하게 됨. 
 * 제목에 이끌려 내용을 들었지만 이론적인 내용뿐 Practice가 없어서 많이 아쉬웠음.
