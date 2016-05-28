@@ -69,7 +69,6 @@ class: center, middle
 
 ## So What?
 
-
 ---
 ## Your Secret Weapon: The Documentation Handbook
 
