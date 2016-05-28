@@ -346,7 +346,7 @@ class: center, middle
 #### 소감
 * Technical Wrtier가 누구보다 Content/Information 특성을 잘 알기 때문에 그 누구보다 저작하고 관리하는 툴이 어떠해야 하는지 잘 알아야 함.
 * 여러 도구의 조합으로 관리하는 정보에 맞는 Documentation System을 구축한 Practice에 감탐함.
-* [발표](http://idratherbewriting.com/files/jekyllwritetechdocslikehackerstc/#/27) 마지막 부분에 Jekyll이 자신을 매우 자유롭게 만들어줬다는 대목이 인상적이었음. 
+* [발표](http://idratherbewriting.com/files/jekyllwritetechdocslikehackerstc/#/27) 마지막에 Jekyll이 자신을 매우 자유롭게 만들어줬다는 점이 이해됨. 
 
 ---
 ## Up with Markdown
@@ -358,8 +358,8 @@ class: center, middle
 * Markdwon의 특징으로 Simple하고 빠름을 강조
 * 많은 사람들이 Markdown을 쓰고 있고 많은 CMS가 Markdown을 지원
 * Markdown 문법과 사용예를 제공함
-* Markdown은 GitHub의 인기를 등에 업고 가벼운 Markup 언어의 주류가 되어가고 있음.
-* 우리가 Web Publishing할 때 Rich Editor, HTML을 사용하지만 문서를 작성하는 비용과 시간을 단축하기 위해 Markdown과 같이 간단한 Markup 언어의 사용도 고려해야 한다.
+* GitHub의 인기를 등에 업고 가벼운 Markup 언어의 주류가 되어가고 있음.
+* Web Publishing할 때 Rich Editor, HTML을 사용하지만 문서를 작성하는 비용과 시간을 단축하기 위해 Markdown과 같은 간단한 Markup 언어 사용을 고려해야 함.
 
 ---
 ## Automate Release Notes for Quick and Accurate Results
@@ -368,15 +368,15 @@ class: center, middle
 * 일정: 5월 18일(수) 오전 8시 30분
 
 ### 내용
-* Release Notes 생성을 자동화하기 위해 Jira와 위키를 사용함.
-* Jira에 Release Notes용 Jira Custom Issue Type을 생성하여 사용.
-* Jira에서 Release Notes용 Issue를 필터로 걸러내고 플러그인을 이용하여 템플릿 텍스트를 생성
-* 이를 MediaWiki의 Extension을 사용하여 배포할 위치에 옮기고 리뷰 과정을 거친 후 배포
+* Release Notes 생성을 자동화하기 위해 Jira와 위키를 사용
+* Jira에 Release Notes용 Jira Custom Issue Type을 생성하여 사용
+* Release Notes용 Issue를 필터로 걸러내고 플러그인을 이용 템플릿 텍스트를 생성
+* MediaWiki의 Extension을 개발하여 추출된 템플릿 텍스트를 위키에 배포
 
 ---
 <img style="margin:0px auto;display:block" width="60%" height="60%" src="http://danjimilk.github.io/DocTest/Auto-Generate_ReleaseNote.png" />
 
 ### 소감
-* DB에 있는 정보를 쿼리하고 이를 이용하여 Dynamic Content를 생성하는 방법은 상당한 업무 효율을 갖는다.
-* 이를 위해 사전에 정보의 설계와 툴의 조합 등을 깊이 고민해야 하는 전제가 따른다.
-* Confluence를 쓰지 않고 왜 MediaWiki를 썼냐는 질문에 기존에 MediaWiki로 고객에게 Content를 배포했다는 간단한 대답이 돌아왔다.
+* DB에 있는 정보를 쿼리하고 이를 이용하여 Dynamic Content를 생성하는 방법은 상당한 업무 효율 제공함
+* 사전에 정보의 설계와 툴의 조합 등을 깊이 고민해야 하는 전제가 따른다.
+* Confluence를 쓰지 않고 왜 MediaWiki를 썼냐는 질문에 기존에 MediaWiki로 고객에게 Content를 배포했기 때문이라는 간단한 대답이 돌아왔다.
