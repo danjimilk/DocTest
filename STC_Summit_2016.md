@@ -69,7 +69,7 @@ class: center, middle
 * 스스로 패턴을 인식하거나 학습하여 요구 사항을 미리 예측하여 동작할 것
 * 클라우드 서비스로 구현, 기기와 서비스는 인터페이스를 열고 정보를 교환
 
-## So What?
+### So What?
 <img style="margin:0px auto;display:block" width="70%" height="70%" src="http://danjimilk.github.io/DocTest/IoT_World.png" />
 
 ---
