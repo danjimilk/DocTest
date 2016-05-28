@@ -315,7 +315,7 @@ class: center, middle
 ## Writing Technical Docs like a Hacker with Jekyll
 ### 세션정보
 * 발표자: Tom Johnson, Technical Writer, Amazon Lab 126
-* 일정: 5월 17일(화) 오전 9시 45분
+* 일정: 5월 17일(화) 오후 1시
 
 ### 내용
 #### 서론
@@ -339,3 +339,19 @@ class: center, middle
 
 #### 소감
 Technical Wrtier가 누구보다 Content/Information 특성을 잘 알기 때문에 그 누구보다 그것을 저작하고 관리하는 툴이 어떠해야 하는지 잘 안다. 그런 의미에서 이미 나와있는 툴이 아니라 DIY로 정보 관리에 필요한 것들을 해결해가면서 실무를 연결해 나가는 Practice를 보면서 입이 떡벌어졌다. 필요한 것이 있으면 구하거나 만들거나 하면된다는 것이다. [Tom의 발표](http://idratherbewriting.com/files/jekyllwritetechdocslikehackerstc/#/27) 마지막 부분에 Jekyll이 자신을 매우 자유롭게 만들어줬다는 대목이 인상적이었다. 
+
+---
+## Up with Markdown
+### 세션정보
+* 발표자: Dave Gash, Technical Publications Specialist, Tech Trainer, Conference Speaker, Novelist, Professional Musician
+* 일정: 5월 17일(화) 오후 2시 15분
+
+### 내용
+* Markdwon의 특징으로 Simple하고 빠름을 강조.
+* 많은 사람들이 Markdown을 쓰고 있고 Extension을 만들고 있고 많은 CMS가 Markdown을 지원하고 있음.
+* Markdown 문법과 사용예를 제공함.
+
+### 소감
+* Wiki Markup 역시 Markdown과 비슷한 수준의 문법이나 파생되는 문법이 많아 Common하게 사용되지 않음.
+* Markdown은 GitHub의 인기를 등에 업고 가벼운 Markup 언어의 주류가 되어가고 있음.
+* 우리가 Web Publishing할 때 Rich Editor, HTML을 사용하지만 문서를 작성하는 비용가 시간을 단축하기 위해 Markdown과 같이 간단한 Markup 언어의 사용도 고려해야 한다.
