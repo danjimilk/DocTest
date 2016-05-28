@@ -68,6 +68,7 @@ class: center, middle
 * 이 모든 것들이 클라우드 베이스의 서비스로 구현되고 IoT 기기들이 인터페이스를 열고 있고 정보를 서로 주고 받을 수 있기 때문에 가능할 것이다.
 
 ## So What?
+<img style="margin:0px auto;display:block" width="60%" height="60%" src="http://danjimilk.github.io/DocTest/IoT_World.png" />
 
 ---
 ## Your Secret Weapon: The Documentation Handbook
@@ -298,7 +299,7 @@ class: center, middle
 
 ---
 #### Technical Content Workflow is becoming circular.
-!!그림
+<img style="margin:0px auto;display:block" width="60%" height="60%" src="http://danjimilk.github.io/DocTest/Technical_Content_WorkFlow.png" />
 
 #### 사용자 참여 전략
 * 사용자에 의해 생성된 UGC, UCC Content를 활용할 것 (Community)
@@ -366,7 +367,7 @@ Technical Wrtier가 누구보다 Content/Information 특성을 잘 알기 때문
 * 이를 MediaWiki의 Extension을 사용하여 배포할 위치에 옮기고 리뷰 과정을 거친 후 배포
 
 ---
-!! 그림
+<img style="margin:0px auto;display:block" width="60%" height="60%" src="http://danjimilk.github.io/DocTest/Auto-Generate_ReleaseNote.png" />
 
 ### 소감
 * DB에 있는 정보를 쿼리하고 이를 이용하여 Dynamic Content를 생성하는 방법은 상당한 업무 효율을 갖는다.
