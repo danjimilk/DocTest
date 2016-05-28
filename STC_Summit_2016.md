@@ -130,9 +130,9 @@ class: center, middle
 * TC에서 API/SDK 라이터의 비중이 커짐, 하지만 툴은? Robo Help를 많이 씀
 * API 문서의 자동화를 위해 Doxygen, JavaDoc, Swagger 등을 소개함.
 * API/SDK 라이터의 덕목으로 Code Reading 스킬을 강조함.
-* API 사용 목적, API를 쓰게되는 맥락이나 사용 로직을 문서에서 제공하는 것도 중요
-* 소스 코드에 문서화를 해야 하기 때문에 개발자와 협업할 때 협업 규칙을 잘 세우고 지키는 것이 중요.
-* JavaDoc 위주의 코드 Notation 사용되기 시작될 때 쯤 다른 세션으로 이동
+* API 사용 목적, API를 쓰게되는 맥락이나 사용 로직을 제공하는 것도 중요
+* 소스 코드에 문서화하기 때문에 개발자와 협업 규칙을 잘 세워야 함.
+* JavaDoc 위주로 설명이 진행되어 더 듣지 않고 이돔함.
 
 ---
 ## Tech Comm and Tech Support Working Together
@@ -141,11 +141,11 @@ class: center, middle
 * 일정: 5/16(월) 오전 9시 45분
 
 ### 내용 및 소감
-* Tech Comm은 내부 개발자와 커뮤니케이션 하며 이를 토대로 문서를 만든다.
-* Tech Comm이 만든 문서로 유저 또는 외부 개발자와 커뮤니케이션한다.
-* Tech Comm이 만든 문서의 문제점을 Tech Support가 잘 수집한다.
-* 이런 상황에서 Tech Comm이 Tech Support에게 문서 리뷰를 부탁하는 방식 등으로 협업할 수 있음.
-* 우리 조직의 입장에서 ID개발지원실이 Tech Support라고 할 수 있음.
+* Tech Comm은 내부 개발자와 커뮤니케이션 하며 문서를 생성 
+* Tech Comm이 만든 문서로 유저 또는 외부 개발자와 커뮤니케이션 실시
+* Tech Comm이 만든 문서/제품의 문제점을 Tech Support가 잘 수집
+* Tech Comm이 Tech Support에게 문서 리뷰를 부탁하는 방식 등으로 협업 가능
+* 우리 조직의 입장에서 ID개발지원실이 Tech Support라 가정할 수 있음.
 
 ---
 ## REST API Documentation Best Practice
@@ -162,26 +162,26 @@ class: center, middle
 
 ---
 #### Intro and importance of REST APIs
-* REST API: ROA (Resource Oreinted Architecture)구조로 웹의 콘텐츠를 하나의 자원으로 보고 URI를 통해 CRUD의 작업을 HTTP의 GET, POST, PUT, DELETE를 사용하여 처리한다.
+* REST API: ROA (Resource Oreinted Architecture)구조로 웹의 콘텐츠를 하나의 자원으로 보고 HTTP의 GET, POST, PUT, DELETE를 CRUD를 수행하는 구조
 * 빠르게 성장하고 있고 산업 표준으로 자리 잡음.
 * 소셜 네트워크, IoT, Cloud, 모바일, 웨어러블에 사용됨.
 * 정확함, 내용의 신뢰성이 API 문서에 가장 크게 요구되는 요소임.
 
-#### Best Practice for REST API Document
-* 레퍼런스 성격의 내용 뿐만 아니라 Get Started, Task Oriented 설명을 함께 제공하라.
+#### [Best Practice](http://docs.oracle.com/cloud/latest/jcs_gs/JSRMR/) for REST API Document
+* 레퍼런스 타입뿐만 아니라 Get Started, Task Oriented 설명을 함께 제공해야 함.
 * Use Cases별 API 사용 가이드 제공 (레퍼런스보다 가이드 성격)
 * Task Based Category로 API 레퍼런스를 필터링해서 접근할 수 있어야 함.
-* API 이름(자워 URI, URL 구조), 지원 Methods, Overview, Method별 설명, 파라미터, Notes
+* API 이름(자원 URI), 지원 Methods, Overview, Method별 설명, 파라미터, 노트
 * Response (Status Code)에 대한 설명 필요
 * 다양항 방법으로 정보에 접근하도록 해야 함 (필터 기준: Task, Path, Method)
-* 문서 콘텐트 자체도 자동화되어 산출될 수 있게 해당 언어 또는 언어가 지원하는 포맷으로 작성함.
+* 문서 콘텐트 자체도 자동화되어 산출될 수 있게 해당 언어 또는 언어가 지원하는 포맷으로 작성해야 함.
 
 ---
 #### API Documentation Generation
 * Oracle 제품에 대한 REST API 문서 작성
 * Swagger을 사용하여 문서화를 자동화 했지만 표시하는 템플릿(Swagger UI)를 커스터마이징함.
-* 심지어 문서를 배포하는 앱을 만들고 해당 앱에 문서를 배포할 수 있도록 REST API를 만듬.
-* 문서 배포 앱이 Oracle 내부의 CMS에서 Content를 추출하여 REST API 문서를 배포함.
+* 문서를 배포하는 앱을 만들고 문서를 배포할 수 있도록 REST API를 만듬.
+* 문서 배포 앱이 Oracle 내부의 CMS에서 Content를 추출하여 문서를 배포함.
 
 #### REST API 문서화를 위해 사용한 도구
 * GitHub: Repository로 사용
