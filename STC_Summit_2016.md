@@ -241,14 +241,14 @@ class: center, middle
 * IoT 기기들은 필요한 정보를 인터넷을 통해 수집하여 기기 스스로를 제어하거나 정보를 디스플레이할 수 있다.
 * 또는 반대로 IoT 기기의 상태 정보나 센서 정보를 인터넷을 통해 내보낼 수 있다.
 * Interactive Content는 제품 상태 정보나 사용자의 진행 상태를 이용해 반응형 방식으로 정보를 전달하는 것
-* 실제로 세션에서는 커피 머신 + 라즈베리 파이 + 센서 + Wireless Network를 조함하여 반응형 콘텐트 시연
+* 실제로 세션에서는 커피 머신 + 라즈베리 파이 + 센서 + Wireless Network를 조합하여 반응형 콘텐트 시연
 
 ---
 <img width="70%" height="70%" src="http://danjimilk.github.io/DocTest/Interactive_Content.jpg">
 
 ### 소감
 * Interactive Content가 무엇인지 가장 구체적으로 보여준 세션이었음. 
-* 기존 독자 분석에 따라 Content를 작성했지만 이는 특정 독자 층의 예상이거나 표본임이고 각 개별 독자층의 대응이 어렵기 때문에 범용적인 문서를 쓰는 경우가 많음.
+* 기존 독자 분석에 따라 Content를 작성했지만 이는 특정 독자 층의 예상이거나 표본이고 각 개별 독자층의 대응이 어렵기 때문에 범용적인 문서를 쓰는 경우가 많음.
 * 실제 Personalized Content를 지향하려면 Connectivity를 통한 정보 수집과 이에 따른 Conditional Content는 필수임.
 * 물론 Content는 계속 범용적이며 모든 것을 포괄할 수 있을 정도로 많은 정보를 들고 있어야 Personalized Content를 생성할 수 있음.
 
@@ -261,22 +261,46 @@ class: center, middle
 ### 내용
 #### 서론
 * 회사는 Content 생산을 위해 많은 예산을 편성하지 않거나 예산을 깎고 있음.
-* 예산을 줄었지만 요구하는 것들은 많아짐.
+* 예산은 줄었지만 요구하는 것들은 많아짐.
 * 이 상황에서 집중해야 할 것, 줄여야 할 것이 무엇인지 고민해야 한다.
-* 처음부터 완변한 Content를 만들 필요없음. 소프르퉤어의 Agile 방법론처럼 Content 생산/관리 필요.
+* 
 
 ---
-#### 가치 별로 업는 Content나 가치를 떨어뜨리는 프로세스는 줄여라
+#### 필수적인 Content를 생산하고 프로세스를 효율화하라
 * Content 전략
-  * 무엇을 써야 하고 무엇을 강화할 것인가?
-  * 독자에 대한 통계 자료 수집 필요: 많이 읽는 Content, 많이 검색하는 Keyword, 소비하는 지역과 언어, 어떤 형태의 기기로 접속하는지?, 토픽을 읽는데 소비되는 시간은 얼마인지? 토픽을 그냥 지나치는 비율은 얼마나 되는지?, 멀티미디어 Content의 소비율은 얼마나 되는지?
-  * 필요 Action: 검색 쿼리가 많은 Content를 만들거나 보충해야 함. 자주 소비되는 Content는 강화해야 함. 사용자의 피드백은 바로 반영할 가치가 있음. 고비용 대비 저효율의 콘텐트를 줄여야 함(미디어 Content, 단순히 조회수로 비디오 영상의 효용성을 판단할 수 없음)
+  * 처음부터 완변한 Content를 만들 필요없음. 소프트웨어의 Agile 방법론처럼 Content 생산/관리 필요(Lean).
+  * 누가 이 문서를 필요로 하는지? 그들이 언제까지 어느 수준의 정보를 필요로 하는지?
+  * 그리고 그 요구가 단계별로 진행될 수 있는지?
+  * 문서 작성에 관해 필요없는 Content나 프로세스를 줄일 수 있는 부분은 없는지?
+  * 계속적인 Content 개선을 쉽게 할 수 있는 방법은 무엇인지? 
 
 * 프로세스 전략
   * 우리의 프로세스 중 가장 비용 개선이 쉽게 될 수 있는 부분은 리뷰 프로세스
   * 완벽한 리뷰는 불가능하며, 수시 순환 방식으로 계속적 리뷰를 하는 것이 좋음.
+  * 리뷰의 결과물은 항상 최종 결과물에 비견되는 것으로 바로 배포가 가능할 정도여야 함.
 
 ---
+#### 트래픽과 ROC의 측정
+* 사용자를 이해함으로 측정해야 할 자료를 판단할 수 있음.
+* 수집할만한 자료
+  * 많이 읽는 Content
+  * 많이 검색하는 Keyword
+  * 소비하는 지역과 언어
+  * 어떤 서비스를 통해 접속하는지? (Organic Search, Site Refer, Social)
+  * 어떤 형태의 기기로 접속하는지?
+  * 토픽을 읽는데 소비되는 시간
+  * 토픽을 그냥 지나치는 비율
+  * 멀티미디어 Content의 소비율이나 양
+
+* 필요 Action
+  * 검색 쿼리가 많거나 자주 소비되는 Content는 생성하거나 강화해야 함.
+  * 사용자의 피드백은 바로 반영할 가치가 있음.
+  * 고비용 대비 저효율의 콘텐트를 줄여야 함(미디어 Content, 단순히 조회수로 비디오 영상의 효용성을 판단할 수 없음)
+
+---
+#### Technical Content Workflow is becoming circular.
+!!그림
+
 #### 사용자 참여 전략
 * 사용자에 의해 생성된 UGC, UCC Content를 활용할 것 (Community)
 * 포럼 등을 통해 사용자에게 응대한 Content(Feedback)을 재사용 할 것
@@ -286,3 +310,32 @@ class: center, middle
 * 팀의 사이트 통계와 같은 것들이 왜 필요한지? 통계를 통해 우리는 어떤 결정을 해야 할 것인지 더 깊이 고민'만'하게 됨. 
 * 제목에 이끌려 내용을 들었지만 이론적인 내용뿐 Practice가 없어서 많이 아쉬웠음.
 * 동시간 대에 했던 Cut to the Core with Simplified Technical English 세션을 들어보지 못해 아쉬웠음.
+
+---
+## Writing Technical Docs like a Hacker with Jekyll
+### 세션정보
+* 발표자: Tom Johnson, Technical Writer, Amazon Lab 126
+* 일정: 5월 17일(화) 오전 9시 45분
+
+### 내용
+#### 서론
+* Single Sourcing이나 Multi Channel Publishing을 지원하는 CMS는 진입 장벽이 높음.
+* 고도로 모듈화된 문서 시스템을 쓰려면 Dita, DocBook 같은 XML 포맷을 사용해야 하고 패러다임도 알아야 함.
+* 최근 Web Server나 Database로 Web Publishing하는 CMS도 사전에 준비해야 하는 Infrastructure가 있고 이를 이해해야 커스터마이징을 통해 활용도가 올라감.
+* 이런 상황에서 Jekyll을 이용한 Documentation Practice를 공유
+
+---
+#### Jekyll 이용한 문서화 Practice
+* Simple, Stable, Secure, Lightweight, Fast
+* 사이트 생성: Jekeyll
+* 파일 포맷: Text
+* 저작 도구: Text Editor
+* 협업 도구: Git, GitHub
+* Versioning 도구: Git
+* 그 외 필요도구 (Extensions): Server Hooks
+* Site Design: [Bootstrap](http://getbootstrap.com/) (UI Framework)
+* Content Re-use, Conditional Content: [Liquid](http://shopify.github.io/liquid/) (Template Lanugage)
+* Multiple Output: Build Config 활용
+
+#### 소감
+Technical Wrtier가 누구보다 Content/Information 특성을 잘 알기 때문에 그 누구보다 그것을 저작하고 관리하는 툴이 어떠해야 하는지 잘 안다. 그런 의미에서 이미 나와있는 툴이 아니라 DIY로 정보 관리에 필요한 것들을 해결해가면서 실무를 연결해 나가는 Practice를 보면서 입이 떡벌어졌다. 필요한 것이 있으면 구하거나 만들거나 하면된다는 것이다. [Tom의 발표](http://idratherbewriting.com/files/jekyllwritetechdocslikehackerstc/#/27) 마지막 부분에 Jekyll이 자신을 매우 자유롭게 만들어줬다는 대목이 인상적이었다. 
