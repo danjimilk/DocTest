@@ -235,8 +235,8 @@ class: center, middle
 ---
 ## Interactive Document and the IoT
 ### 세션정보
-* 발표자: Vi Kellersohn
-* 일정: 5/17(ghk) 오전 8시 30분
+* 발표자: Vi Kellersohn, Chief Marketing Officer, Oberon Technologies
+* 일정: 5/17(화) 오전 8시 30분
 
 ### 내용
 * IoT 기기들은 필요한 정보를 인터넷을 통해 수집하여 기기 스스로를 제어하거나 정보를 디스플레이할 수 있다.
@@ -252,4 +252,38 @@ class: center, middle
 * 기존 독자 분석에 따라 Content를 작성했지만 이는 특정 독자 층의 예상이거나 표본임이고 각 개별 독자층의 대응이 어렵기 때문에 범용적인 문서를 쓰는 경우가 많음.
 * 실제 Personalized Content를 지향하려면 Connectivity를 통한 정보 수집과 이에 따른 Conditional Content는 필수임.
 * 물론 Content는 계속 범용적이며 모든 것을 포괄할 수 있을 정도로 많은 정보를 들고 있어야 Personalized Content를 생성할 수 있음.
-* 
+
+---
+## Do More with Less and Increase your Return on Content(ROC)
+### 세션정보
+* 발표자: Abhishek Jain, Product Manager, Adobe
+* 일정: 5월 17일(화) 오전 9시 45분
+
+### 내용
+#### 서론
+* 회사는 Content 생산을 위해 많은 예산을 편성하지 않거나 예산을 깎고 있음.
+* 예산을 줄었지만 요구하는 것들은 많아짐.
+* 이 상황에서 집중해야 할 것, 줄여야 할 것이 무엇인지 고민해야 한다.
+* 처음부터 완변한 Content를 만들 필요없음. 소프르퉤어의 Agile 방법론처럼 Content 생산/관리 필요.
+
+---
+#### 가치 별로 업는 Content나 가치를 떨어뜨리는 프로세스는 줄여라
+* Content 전략
+  * 무엇을 써야 하고 무엇을 강화할 것인가?
+  * 독자에 대한 통계 자료 수집 필요: 많이 읽는 Content, 많이 검색하는 Keyword, 소비하는 지역과 언어, 어떤 형태의 기기로 접속하는지?, 토픽을 읽는데 소비되는 시간은 얼마인지? 토픽을 그냥 지나치는 비율은 얼마나 되는지?, 멀티미디어 Content의 소비율은 얼마나 되는지?
+  * 필요 Action: 검색 쿼리가 많은 Content를 만들거나 보충해야 함. 자주 소비되는 Content는 강화해야 함. 사용자의 피드백은 바로 반영할 가치가 있음. 고비용 대비 저효율의 콘텐트를 줄여야 함(미디어 Content, 단순히 조회수로 비디오 영상의 효용성을 판단할 수 없음)
+
+* 프로세스 전략
+  * 우리의 프로세스 중 가장 비용 개선이 쉽게 될 수 있는 부분은 리뷰 프로세스
+  * 완벽한 리뷰는 불가능하며, 수시 순환 방식으로 계속적 리뷰를 하는 것이 좋음.
+
+---
+#### 사용자 참여 전략
+* 사용자에 의해 생성된 UGC, UCC Content를 활용할 것 (Community)
+* 포럼 등을 통해 사용자에게 응대한 Content(Feedback)을 재사용 할 것
+* 때로는 사용자에게 Content 저작 및 편집까지 맡기는 것도 좋은 방법 (Wiki 스타일)
+
+### 소감
+* 팀의 사이트 통계와 같은 것들이 왜 필요한지? 통계를 통해 우리는 어떤 결정을 해야 할 것인지 더 깊이 고민'만'하게 됨. 
+* 제목에 이끌려 내용을 들었지만 이론적인 내용뿐 Practice가 없어서 많이 아쉬웠음.
+* 동시간 대에 했던 Cut to the Core with Simplified Technical English 세션을 들어보지 못해 아쉬웠음.
