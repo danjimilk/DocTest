@@ -346,11 +346,9 @@ Technical Wrtier가 누구보다 Content/Information 특성을 잘 알기 때문
 * 발표자: Dave Gash, Freelancer (Tech Publisher, Conference Speaker) 
 * 일정: 5월 17일(화) 오후 2시 15분
 
-### 내용
+### 내용 및 소감
 * Markdwon의 특징으로 Simple하고 빠름을 강조
 * 많은 사람들이 Markdown을 쓰고 있고 많은 CMS가 Markdown을 지원
 * Markdown 문법과 사용예를 제공함
-
-### 소감
 * Markdown은 GitHub의 인기를 등에 업고 가벼운 Markup 언어의 주류가 되어가고 있음.
-* 우리가 Web Publishing할 때 Rich Editor, HTML을 사용하지만 문서를 작성하는 비용가 시간을 단축하기 위해 Markdown과 같이 간단한 Markup 언어의 사용도 고려해야 한다.
+* 우리가 Web Publishing할 때 Rich Editor, HTML을 사용하지만 문서를 작성하는 비용과 시간을 단축하기 위해 Markdown과 같이 간단한 Markup 언어의 사용도 고려해야 한다.
