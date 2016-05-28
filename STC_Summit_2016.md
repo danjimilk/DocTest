@@ -248,6 +248,8 @@ class: center, middle
 <img width="70%" height="70%" src="http://danjimilk.github.io/DocTest/Interactive_Content.jpg">
 
 ### 소감
-* Interactive Content가 무엇인지 가작 구체적으로 보여준 세션이었음. 
-* 독자 분석에 따라 Content를 작성했지만 이는 특정 독자 층의 예상이거나 표본임.
+* Interactive Content가 무엇인지 가장 구체적으로 보여준 세션이었음. 
+* 기존 독자 분석에 따라 Content를 작성했지만 이는 특정 독자 층의 예상이거나 표본임이고 각 개별 독자층의 대응이 어렵기 때문에 범용적인 문서를 쓰는 경우가 많음.
 * 실제 Personalized Content를 지향하려면 Connectivity를 통한 정보 수집과 이에 따른 Conditional Content는 필수임.
+* 물론 Content는 계속 범용적이며 모든 것을 포괄할 수 있을 정도로 많은 정보를 들고 있어야 Personalized Content를 생성할 수 있음.
+* 
