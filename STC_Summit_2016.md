@@ -35,10 +35,10 @@ class: center, middle
 
 ---
 #### 사용자의 욕구
-* Omni Science: The desire to know all.
-* Telepathy: The desire for human connection.
-* Safe Keeping: To protect and to be protected.
-* Immortrality: To be healthy and vital.
+* Omni Science: The desire to know all
+* Telepathy: The desire for human connection
+* Safe Keeping: To protect and to be protected
+* Immortrality: To be healthy and vital
 * Teleportation: To move effortlessly
 
 #### Enchanted Object의 등장 (ex. Ambient Umbrella)
@@ -103,9 +103,9 @@ class: center, middle
 <img style="margin:0px auto;display:block" width="60%" height="60%" src="http://danjimilk.github.io/DocTest/Handbook.png" />
 
 #### Doc Handbook Best Practice - Do
-* 신입 라이터는 익숙해질 때까지 핸드북을 사용한다.
-* 팀 멤버와 협업하여 핸드북을 저작/리뷰한다.
-* 신입 라이터의 제안이나 리뷰를 반영한다.
+* 신입 라이터는 익숙해질 때까지 핸드북을 사용
+* 팀 멤버와 협업하여 핸드북을 저작/리뷰
+* 신입 라이터의 제안이나 리뷰를 반영
 
 #### Doc Handbook Best Practice - Do Not
 * 핸드북을 방치하지 마라
@@ -116,7 +116,7 @@ class: center, middle
 * 우리의 핸드북(스타일 가이드)은 접근이 쉬운가?
 * 우리의 핸드북은 계속 업데이트되고 업무 시 참조할 수 있는 것인가?
 * 우리의 핸드북으로 멤버의 변화에 대응할 수 있는가?
-* 우리의 핸드북이 위와 같은 특징을 가질 수 있도록 업데이트 및 재작성할 가치가 있음.
+* 우리의 핸드북이 위와 같은 특징을 가질 수 있도록 업데이트 및 재작성할 가치가 있음
 
 ---
 ## Generating API Doc automatically
@@ -128,11 +128,11 @@ class: center, middle
 
 ### 내용 및 소감
 * TC에서 API/SDK 라이터의 비중이 커짐, 하지만 툴은? Robo Help를 많이 씀
-* API 문서의 자동화를 위해 Doxygen, JavaDoc, Swagger 등을 소개함.
-* API/SDK 라이터의 덕목으로 Code Reading 스킬을 강조함.
+* API 문서의 자동화를 위해 Doxygen, JavaDoc, Swagger 등을 소개함
+* API/SDK 라이터의 덕목으로 Code Reading 스킬을 강조함
 * API 사용 목적, API를 쓰게되는 맥락이나 사용 로직을 제공하는 것도 중요
-* 소스 코드에 문서화하기 때문에 개발자와 협업 규칙을 잘 세워야 함.
-* JavaDoc 위주로 설명이 진행되어 더 듣지 않고 이돔함.
+* 소스 코드에 문서화하기 때문에 개발자와 협업 규칙을 잘 세워야 함
+* JavaDoc 위주로 설명이 진행되어 더 듣지 않고 이돔함
 
 ---
 ## Tech Comm and Tech Support Working Together
@@ -145,7 +145,7 @@ class: center, middle
 * Tech Comm이 만든 문서로 유저 또는 외부 개발자와 커뮤니케이션 실시
 * Tech Comm이 만든 문서/제품의 문제점을 Tech Support가 잘 수집
 * Tech Comm이 Tech Support에게 문서 리뷰를 부탁하는 방식 등으로 협업 가능
-* 우리 조직의 입장에서 ID개발지원실이 Tech Support라 가정할 수 있음.
+* 우리 조직의 입장에서 ID개발지원실이 Tech Support라 가정할 수 있음
 
 ---
 ## REST API Documentation Best Practice
@@ -163,30 +163,30 @@ class: center, middle
 ---
 #### Intro and importance of REST APIs
 * REST API: ROA (Resource Oreinted Architecture)구조로 웹의 콘텐츠를 하나의 자원으로 보고 HTTP의 GET, POST, PUT, DELETE를 CRUD를 수행하는 구조
-* 빠르게 성장하고 있고 산업 표준으로 자리 잡음.
-* 소셜 네트워크, IoT, Cloud, 모바일, 웨어러블에 사용됨.
-* 정확함, 내용의 신뢰성이 API 문서에 가장 크게 요구되는 요소임.
+* 빠르게 성장하고 있고 산업 표준으로 자리 잡음
+* 소셜 네트워크, IoT, Cloud, 모바일, 웨어러블에 사용됨
+* 정확함, 내용의 신뢰성이 API 문서에 가장 크게 요구되는 요소임
 
 #### [Best Practice](http://docs.oracle.com/cloud/latest/jcs_gs/JSRMR/) for REST API Document
-* 레퍼런스 타입뿐만 아니라 Get Started, Task Oriented 토픽도 함께 제공함.
+* 레퍼런스 타입뿐만 아니라 Get Started, Task Oriented 토픽도 함께 제공함
 * Use Cases별 API 사용 가이드 제공 (레퍼런스보다 가이드 성격)
-* Task Based Category로 API 레퍼런스를 필터링해서 접근할 수 있어야 함.
+* Task Based Category로 API 레퍼런스를 필터링해서 접근할 수 있어야 함
 * 이름, URI, 지원 Methods, Overview, Method별 설명, 파라미터, 노트로 구성
 * Response (Status Code)에 대한 설명 필요
 * 다양항 방법으로 정보에 접근하도록 해야 함 (필터 기준: Task, Path, Method)
-* 문서 콘텐트 자체도 자동화되어 산출될 수 있게 해당 언어 또는 언어가 지원하는 포맷으로 작성해야 함.
+* 문서 콘텐트 자체도 자동화되어 산출될 수 있게 해당 언어 또는 언어가 지원하는 포맷으로 작성해야 함
 
 ---
 #### API Documentation Generation
 * Oracle 제품에 대한 REST API 문서 작성
-* Swagger을 사용하여 문서화를 자동화 했지만 표시하는 템플릿(Swagger UI)를 커스터마이징함.
-* 문서를 배포하는 앱을 만들고 문서를 배포할 수 있도록 REST API를 만듬.
-* 문서 배포 앱이 Oracle 내부의 CMS에서 Content를 추출하여 문서를 배포함.
+* Swagger을 사용하여 문서화를 자동화 했지만 표시하는 템플릿(Swagger UI)를 커스터마이징함
+* 문서를 배포하는 앱을 만들고 문서를 배포할 수 있도록 REST API를 만듬
+* 문서 배포 앱이 Oracle 내부의 CMS에서 Content를 추출하여 문서를 배포함
 
 #### REST API 문서화를 위해 사용한 도구
 * GitHub: Repository로 사용
 * Postman (Chrome Extension): REST API를 테스트하기 위한 도구
-* 브라우저 외에도 Desk Top용 REST Client나 cURL 오픈 소스를 사용하기도 함.
+* 브라우저 외에도 Desk Top용 REST Client나 cURL 오픈 소스를 사용하기도 함
 
 #### References
 * [Tom Johnson's API Doc posts](http://idratherbewriting.com/category/api-documentation/)
@@ -207,7 +207,7 @@ class: center, middle
 
 ---
 #### 특징
-* SNS 특징이 있음, 유명 프로젝트, 유명 개발자를 Follow할 수 있음.
+* SNS 특징이 있음, 유명 프로젝트, 유명 개발자를 Follow할 수 있음
 * 문서 저작을 함께 할 수 있음
 * 문서 또한 코드와 같은 파일로 취급
 * 계정 생성은 무료, 단 Private Repository를 만들어야 할 경우 유료
@@ -224,7 +224,7 @@ class: center, middle
 ---
 #### Markdown
 * 가벼운 규칙으로 HTML 변환이 쉬운 문법 (Wiki Markup와 비슷)
-* John Gruber에 의해 만들어짐.
+* John Gruber에 의해 만들어짐
 * GitHub에서 문서화를 위해 Markdown을 사용
 * Syntax Highlighting, Task List, Tables를 추가로 지원
 * [Markdown Cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
@@ -232,7 +232,7 @@ class: center, middle
 ### 소감
 * GitHub의 특징을 활용하면서 문서화하는 스킬은 대부분 최근 TW에게 요구되는 Trendy한 스킬이라고 느낌
 * Markdown이 문서 요구 사항을 모두 만족시키지 못하지만 빠른 대응 가능
-* Code와 문서의 경계를 크게 두지 않는 사고 방식을 확인함.
+* Code와 문서의 경계를 크게 두지 않는 사고 방식을 확인함
 
 ---
 ## Interactive Document and the IoT
@@ -251,9 +251,9 @@ class: center, middle
 
 ### 소감
 * Interactive Content가 무엇인지 가장 구체적으로 보여준 세션
-* 독자를 예상 분석한 과거에는 완벽히 Personalized Content 구현이 불가했음.
-* 실제 Personalized Content를 지향하려면 Connectivity를 통한 정보 수집과 이에 따른 Conditional Content는 필수임.
-* 물론 Content는 계속 범용적이며 모든 것을 포괄할 수 있을 정도로 많은 정보를 들고 있어야 Personalized Content를 생성할 수 있음.
+* 독자를 예상 분석한 과거에는 완벽히 Personalized Content 구현이 불가했음
+* 실제 Personalized Content를 지향하려면 Connectivity를 통한 정보 수집과 이에 따른 Conditional Content는 필수임
+* 물론 Content는 계속 범용적이며 모든 것을 포괄할 수 있을 정도로 많은 정보를 들고 있어야 Personalized Content를 생성할 수 있음
 
 ---
 ## Do More with Less and Increase your Return on Content(ROC)
@@ -263,15 +263,15 @@ class: center, middle
 
 ### 내용
 #### 서론
-* 회사는 Content 생산을 위해 많은 예산을 편성하지 않거나 예산을 깎고 있음.
-* 예산은 줄었지만 요구하는 것들은 많아짐.
-* 이 상황에서 집중해야 할 것, 줄여야 할 것이 무엇인지 고민임.
+* 회사는 Content 생산을 위해 많은 예산을 편성하지 않거나 예산을 깎고 있음
+* 예산은 줄었지만 요구하는 것들은 많아짐
+* 이 상황에서 집중해야 할 것, 줄여야 할 것이 무엇인지 고민임
 
 ---
 #### 필수적인 Content를 생산하고 프로세스를 효율화하라
 * Content 전략
-  * 처음부터 완변한 Content를 만들 필요 없음.
-  * 소프트웨어의 Agile 방법론처럼 Content 생산/관리 필요(Lean).
+  * 처음부터 완변한 Content를 만들 필요 없음
+  * 소프트웨어의 Agile 방법론처럼 Content 생산/관리 필요(Lean)
   * 누가 이 문서를 필요로 하는지?
   * 그들이 언제까지 어느 수준의 정보를 필요로 하는지?
   * 그리고 그 요구가 단계별로 진행될 수 있는지?
@@ -280,12 +280,12 @@ class: center, middle
 
 * 프로세스 전략
   * 우리의 프로세스 중 가장 비용 개선이 쉽게 될 수 있는 부분은 리뷰 프로세스
-  * 완벽한 리뷰는 불가능하며, 수시/순환 방식으로 계속적 리뷰해야 함.
-  * 리뷰의 결과물은 항상 최종 결과물과 큰 차이가 없어야 함. (항시 배포 가능)
+  * 완벽한 리뷰는 불가능하며, 수시/순환 방식으로 계속적 리뷰해야 함
+  * 리뷰의 결과물은 항상 최종 결과물과 큰 차이가 없어야 함 (항시 배포 가능)
 
 ---
 #### 트래픽과 ROC의 측정
-* 사용자를 이해함으로 측정해야 할 자료를 판단할 수 있음.
+* 사용자를 이해함으로 측정해야 할 자료를 판단할 수 있음
 * 수집할만한 자료
   * 많이 읽는 Content
   * 많이 검색하는 Keyword
@@ -297,12 +297,12 @@ class: center, middle
   * 멀티미디어 Content의 소비율이나 양
 
 * 필요 Action
-  * 검색 쿼리가 많거나 자주 소비되는 Content는 생성하거나 강화해야 함.
-  * 사용자의 피드백은 바로 반영할 가치가 있음.
+  * 검색 쿼리가 많거나 자주 소비되는 Content는 생성하거나 강화해야 함
+  * 사용자의 피드백은 바로 반영할 가치가 있음
   * 고비용 대비 저효율의 콘텐트를 줄여야 함(미디어 Content, 단순히 조회수로 비디오 영상의 효용성을 판단할 수 없음)
 
 ---
-#### Technical Content Workflow is becoming circular.
+#### Technical Content Workflow is becoming circular
 <img style="margin:0px auto;display:block" width="60%" height="60%" src="http://danjimilk.github.io/DocTest/Technical_Content_WorkFlow.png" />
 
 #### 사용자 참여 전략
@@ -313,9 +313,9 @@ class: center, middle
 ---
 ### 소감
 * 팀의 사이트 통계와 같은 것들이 왜 필요한지?
-* 통계를 통해 우리는 어떤 결정을 해야 할 것인지 더 깊이 고민'만'하게 됨. 
-* 제목에 이끌려 내용을 들었지만 Practice가 없어서 많이 아쉬웠음.
-* 동시간 대에 했던 Cut to the Core with Simplified Technical English 세션을 들어보지 못해 아쉬웠음.
+* 통계를 통해 우리는 어떤 결정을 해야 할 것인지 더 깊이 고민'만'하게 됨
+* 제목에 이끌려 내용을 들었지만 Practice가 없어서 많이 아쉬웠음
+* 동시간 대에 했던 Cut to the Core with Simplified Technical English 세션을 들어보지 못해 아쉬웠음
 
 ---
 ## Writing Technical Docs like a Hacker with Jekyll
@@ -325,9 +325,9 @@ class: center, middle
 
 ### 내용
 #### 서론
-* Single Sourcing, Multi Channel Publishing 지원 CMS는 진입 장벽이 높음.
-* 고도로 모듈화된 문서 시스템을 쓰려면, Dita 같은 XML 포맷을 사용해야 하고 배경 지식도 알아야 함.
-* Web Server나 Database로 Web Publishing하는 CMS도 사전에 준비해야 하는 Infrastructure가 있고 이를 이해해야 커스터마이징을 통해 활용도가 올라감.
+* Single Sourcing, Multi Channel Publishing 지원 CMS는 진입 장벽이 높음
+* 고도로 모듈화된 문서 시스템을 쓰려면, Dita 같은 XML 포맷을 사용해야 하고 배경 지식도 알아야 함
+* Web Server나 Database로 Web Publishing하는 CMS도 사전에 준비해야 하는 Infrastructure가 있고 이를 이해해야 커스터마이징을 통해 활용도가 올라감
 * 이런 상황에서 Jekyll을 이용한 Documentation Practice를 공유
 
 ---
@@ -344,9 +344,9 @@ class: center, middle
 * Multiple Output: Build Config 활용
 
 #### 소감
-* Technical Wrtier가 누구보다 Content/Information 특성을 잘 알기 때문에 그 누구보다 저작하고 관리하는 툴이 어떠해야 하는지 잘 알아야 함.
-* 여러 도구의 조합으로 관리하는 정보에 맞는 Documentation System을 구축한 Practice에 감탐함.
-* [발표](http://idratherbewriting.com/files/jekyllwritetechdocslikehackerstc/#/27) 마지막에 Jekyll이 자신을 매우 자유롭게 만들어줬다는 점이 이해됨. 
+* Technical Wrtier가 누구보다 Content/Information 특성을 잘 알기 때문에 그 누구보다 저작하고 관리하는 툴이 어떠해야 하는지 잘 알아야 함
+* 여러 도구의 조합으로 관리하는 정보에 맞는 Documentation System을 구축한 Practice에 감탐함
+* [발표](http://idratherbewriting.com/files/jekyllwritetechdocslikehackerstc/#/27) 마지막에 Jekyll이 자신을 매우 자유롭게 만들어줬다는 점이 이해됨
 
 ---
 ## Up with Markdown
@@ -358,8 +358,8 @@ class: center, middle
 * Markdwon의 특징으로 Simple하고 빠름을 강조
 * 많은 사람들이 Markdown을 쓰고 있고 많은 CMS가 Markdown을 지원
 * Markdown 문법과 사용예를 제공함
-* GitHub의 인기를 등에 업고 가벼운 Markup 언어의 주류가 되어가고 있음.
-* Web Publishing할 때 Rich Editor, HTML을 사용하지만 문서를 작성하는 비용과 시간을 단축하기 위해 Markdown과 같은 간단한 Markup 언어 사용을 고려해야 함.
+* GitHub의 인기를 등에 업고 가벼운 Markup 언어의 주류가 되어가고 있음
+* Web Publishing할 때 Rich Editor, HTML을 사용하지만 문서를 작성하는 비용과 시간을 단축하기 위해 Markdown과 같은 간단한 Markup 언어 사용을 고려해야 함
 
 ---
 ## Automate Release Notes for Quick and Accurate Results
@@ -378,5 +378,5 @@ class: center, middle
 
 ### 소감
 * DB에 있는 정보를 쿼리하고 이를 이용하여 Dynamic Content를 생성하는 방법은 상당한 업무 효율 제공함
-* 사전에 정보의 설계와 툴의 조합 등을 깊이 고민해야 하는 전제가 따른다.
-* Confluence를 쓰지 않고 왜 MediaWiki를 썼냐는 질문에 기존에 MediaWiki로 고객에게 Content를 배포했기 때문이라는 간단한 대답이 돌아왔다.
+* 사전에 정보의 설계와 툴의 조합 등을 깊이 고민해야 하는 전제가 따름
+* Confluence를 쓰지 않고 왜 MediaWiki를 썼냐는 질문에 기존에 MediaWiki로 고객에게 Content를 배포했기 때문이라는 간단한 대답이 돌아옴
