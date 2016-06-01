@@ -171,7 +171,7 @@ layout: false
 
 ---
 #### Intro and importance of REST APIs
-* REST API: ROA (Resource Oreinted Architecture)구조로 웹의 콘텐츠를 하나의 자원으로 보고 HTTP의 GET, POST, PUT, DELETE를 CRUD를 수행하는 구조
+* REST API: ROA (Resource Oreinted Architecture)구조로 웹의 콘텐츠를 하나의 자원으로 보고 HTTP의 GET, POST, PUT, DELETE로 CRUD를 수행하는 구조
 * 빠르게 성장하고 있고 산업 표준으로 자리 잡음
 * 소셜 네트워크, IoT, Cloud, 모바일, 웨어러블에 사용됨
 * 정확함, 내용의 신뢰성이 API 문서에 가장 크게 요구되는 요소임
@@ -185,6 +185,9 @@ layout: false
 * 다양항 방법으로 정보에 접근하도록 해야 함 (필터 기준: Task, Path, Method)
 * 문서 콘텐트 자체도 자동화되어 산출될 수 있게 해당 언어 또는 언어가 지원하는 포맷으로 작성해야 함
 
+---
+#### Oracle Cloud Open API
+<iframe width="800" height="600" src="http://docs.oracle.com/cloud/latest/jcs_gs/JSRMR/" frameborder="2"></iframe>
 ---
 #### API Documentation Generation
 * Oracle 제품에 대한 REST API 문서 작성
