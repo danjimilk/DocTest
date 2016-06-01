@@ -187,7 +187,7 @@ layout: false
 
 ---
 #### Oracle Cloud Open API
-<iframe width="100%" height="80%" src="http://docs.oracle.com/cloud/latest/jcs_gs/JSRMR/" frameborder="2"></iframe>
+<iframe width="800px" height="80%" src="http://docs.oracle.com/cloud/latest/jcs_gs/JSRMR/" frameborder="2"></iframe>
 ---
 #### API Documentation Generation
 * Oracle 제품에 대한 REST API 문서 작성
