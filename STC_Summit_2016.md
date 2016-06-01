@@ -64,7 +64,7 @@ class: center, middle
 ---
 layout: true
 
-### 결론
+### 결론 및 소감
 
 ---
 
@@ -80,6 +80,8 @@ layout: true
 <img style="margin:0px auto;display:block" width="65%" height="65%" src="http://danjimilk.github.io/DocTest/IoT_World.png" />
 
 ---
+layout: false
+
 ## Your Secret Weapon: The Documentation Handbook
 
 ### 세션 정보
