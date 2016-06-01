@@ -3,22 +3,6 @@ class: center, middle
 # STC Summit 2016 참관 후기
 
 ---
-## 참관 후기 요약
-* 좋았던 점
-  * 다양한 주제, 다양한 직무 (라이터, 기술 지원, 마케터 등), 많은 참여
-  * 이어지는 주제, 가늠할 수 있는 Content
-  * 추후 Video Content 제공
-
-* 아쉬운 점
-  * 낚시성 제목, 알맹이 없는 세션들이 존재
-  * 스포서쉽에 의거한 광고성 세션 (Web Works, Adobe 등)
-
-### 결론
-* Rest API는 대세임
-* 저비용 고효율에 기민한 대응이 가능한 Documentation
-* 오픈 소스, 진입이 쉬운 툴의 사용 확대: GitHub, Jekyll, Swagger, Markdown
-
----
 
 ## Openning Keynote
 
@@ -392,3 +376,20 @@ layout: false
 * DB에 있는 정보를 쿼리하고 이를 이용하여 Dynamic Content를 생성하는 방법은 상당한 업무 효율 제공함
 * 사전에 정보의 설계와 툴의 조합 등을 깊이 고민해야 하는 전제가 따름
 * Confluence를 쓰지 않고 왜 MediaWiki를 썼냐는 질문에 기존에 MediaWiki로 고객에게 Content를 배포했기 때문이라는 간단한 대답이 돌아옴
+
+---
+
+## 참관 후기 요약
+* 좋았던 점
+  * 다양한 주제, 다양한 직무 (라이터, 기술 지원, 마케터 등), 많은 참여
+  * 이어지는 주제, 가늠할 수 있는 Content
+  * 추후 Video Content 제공
+
+* 아쉬운 점
+  * 낚시성 제목, 알맹이 없는 세션들이 존재
+  * 스포서쉽에 의거한 광고성 세션 (Web Works, Adobe 등)
+
+### 결론
+* Rest API는 대세임
+* 저비용 고효율에 기민한 대응이 가능한 Documentation
+* 오픈 소스, 진입이 쉬운 툴의 사용 확대: GitHub, Jekyll, Swagger, Markdown
