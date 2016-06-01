@@ -42,7 +42,7 @@ class: center, middle
 * Teleportation: To move effortlessly
 
 #### Enchanted Object의 등장 (ex. Ambient Umbrella)
- <iframe width="560" height="315" src="https://www.youtube.com/embed/teEZMLUXnSk?autoplay=1" frameborder="0" allowfullscreen></iframe>
+ <iframe width="80%" height="50%" src="https://www.youtube.com/embed/teEZMLUXnSk?autoplay=1" frameborder="0" allowfullscreen></iframe>
 
 ---
 #### Ehchanted Objects의 요소
