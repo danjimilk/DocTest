@@ -31,7 +31,7 @@ class: center, middle
 * Terminal World: 스마트 기기의 홍수
 * Prosthetics: 신체의 일부를 대체하는 인공 기관들
 * Animism: 감성을 가진 로봇과 기기들
-* Enchanted Objects: 강동을 주는 사물들
+* Enchanted Objects: 감동을 주는 사물들
 
 ---
 #### 사용자의 욕구
@@ -42,7 +42,7 @@ class: center, middle
 * Teleportation: To move effortlessly
 
 #### Enchanted Object의 등장 (ex. Ambient Umbrella)
- <iframe width="560" height="315" src="https://www.youtube.com/embed/teEZMLUXnSk" frameborder="0" allowfullscreen></iframe>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/teEZMLUXnSk?autoplay=1" frameborder="0" allowfullscreen></iframe>
 
 ---
 #### Ehchanted Objects의 요소
