@@ -182,7 +182,7 @@ layout: false
 * Task Based Category로 API 레퍼런스를 필터링해서 접근할 수 있어야 함
 * 이름, URI, 지원 Methods, Overview, Method별 설명, 파라미터, 노트로 구성
 * Response (Status Code)에 대한 설명 필요
-* 다양항 방법으로 정보에 접근하도록 해야 함 (필터 기준: Task, Path, Method)
+* 다양항 기준으로 정보 접근을 제공해야 함 (기준: Task, Path, Method)
 * 문서 콘텐트 자체도 자동화되어 산출될 수 있게 해당 언어 또는 언어가 지원하는 포맷으로 작성해야 함
 
 ---
@@ -242,7 +242,7 @@ layout: false
 * [Markdown Cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
 ### 소감
-* GitHub의 특징을 활용하면서 문서화하는 스킬은 대부분 최근 TW에게 요구되는 Trendy한 스킬이라고 느낌
+* GitHub의 특징을 활용하면서 문서화하는 스킬은 대부분 최근 북미 TW에게 요구되는 Trendy한 스킬이라고 느낌
 * Markdown이 문서 요구 사항을 모두 만족시키지 못하지만 빠른 대응 가능
 * Code와 문서의 경계를 크게 두지 않는 사고 방식을 확인함
 
@@ -357,7 +357,7 @@ layout: false
 
 #### 소감
 * Technical Wrtier가 누구보다 Content/Information 특성을 잘 알기 때문에 그 누구보다 저작하고 관리하는 툴이 어떠해야 하는지 잘 알아야 함
-* 여러 도구의 조합으로 관리하는 정보에 맞는 Documentation System을 구축한 Practice에 감탐함
+* 여러 도구의 조합하여 필요한 Documentation System을 구축한 Practice에 감탐함
 * [발표](http://idratherbewriting.com/files/jekyllwritetechdocslikehackerstc/#/27) 마지막에 Jekyll이 자신을 매우 자유롭게 만들어줬다는 점이 이해됨
 
 ---
@@ -382,11 +382,11 @@ layout: false
 ### 내용
 * Release Notes 생성을 자동화하기 위해 Jira와 위키를 사용
 * Jira에 Release Notes용 Jira Custom Issue Type을 생성하여 사용
-* Release Notes용 Issue를 필터로 걸러내고 플러그인을 이용 템플릿 텍스트를 생성
+* Release Notes용 Issue를 필터로 거르고 플러그인을 이용 템플릿 텍스트를 생성
 * MediaWiki의 Extension을 개발하여 추출된 템플릿 텍스트를 위키에 배포
 
 ---
-<img style="margin:0px auto;display:block" width="60%" height="60%" src="http://danjimilk.github.io/DocTest/Auto-Generate_ReleaseNote.png" />
+<img style="margin:0px auto;display:block" width="80%" height="80%" src="http://danjimilk.github.io/DocTest/Auto-Generate_ReleaseNote.png" />
 
 ### 소감
 * DB에 있는 정보를 쿼리하고 이를 이용하여 Dynamic Content를 생성하는 방법은 상당한 업무 효율 제공함
