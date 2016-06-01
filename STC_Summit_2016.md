@@ -77,7 +77,7 @@ layout: true
 --
 
 #### So What?
-<img style="margin:0px auto;display:block" width="65%" height="65%" src="http://danjimilk.github.io/DocTest/IoT_World.png" />
+<img style="margin:0px auto;display:block" width="60%" height="60%" src="http://danjimilk.github.io/DocTest/IoT_World.png" />
 
 ---
 layout: false
