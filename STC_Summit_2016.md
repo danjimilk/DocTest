@@ -63,14 +63,19 @@ class: center, middle
 
 ---
 layout: true
+
 ### 결론
+
 ---
+
 #### 앞으로의 IoT 기기들은...
 * 필요할 때만 켜지고, 방해없이 필요할 때만 인지될 것
 * 인터페이스가 제공되어 변형되거나 예측못한 형태로 사용될 것
 * 스스로 패턴을 인식하거나 학습하여 요구 사항을 미리 예측하여 동작할 것
 * 클라우드 서비스로 구현, 기기와 서비스는 인터페이스를 열고 정보를 교환
+
 ---
+
 #### So What?
 <img style="margin:0px auto;display:block" width="65%" height="65%" src="http://danjimilk.github.io/DocTest/IoT_World.png" />
 
