@@ -341,7 +341,7 @@ layout: false
 
 #### 소감
 * Technical Wrtier가 누구보다 Content/Information 특성을 잘 알기 때문에 그 누구보다 저작하고 관리하는 툴이 어떠해야 하는지 잘 알아야 함
-* 여러 도구의 조합하여 필요한 Documentation System을 구축한 Practice에 감탐함
+* 여러 도구의 조합하여 필요한 Documentation System을 구축한 Practice에 감탄함
 * [발표](http://idratherbewriting.com/files/jekyllwritetechdocslikehackerstc/#/27) 마지막에 Jekyll이 자신을 매우 자유롭게 만들어줬다는 점이 이해됨
 
 ---
